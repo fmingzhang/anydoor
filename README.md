@@ -17,6 +17,6 @@ anydoor -h localhost #设置host 为localhost
 anydoor -d /usr  #设置根目录为/usr
 ```
 ## 使用命令行
-# 例如:
+## 例如:
 node src/index.js -p 9999  # 设置端口号9999启动
 node src/index.js --port=9999  # 设置端口号9999启动
